@@ -1,3 +1,18 @@
+body{
+    text-align: center;
+}
 h1{
-    color: aqua;
+    color: rgb(55, 0, 255);
+    text-decoration: solid;
+}
+h3{
+    color: rgba(0, 129, 80, 0.418);
+    text-decoration: solid;
+}
+}
+
+p{
+    color: blue;
+    text-decoration: solid;
+}
 }
