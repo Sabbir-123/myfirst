@@ -9,10 +9,12 @@ h3{
     color: rgba(0, 129, 80, 0.418);
     text-decoration: solid;
 }
-}
+
 
 p{
     color: blue;
     text-decoration: solid;
 }
+button{
+    color: red;
 }
